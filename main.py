@@ -1,5 +1,5 @@
 # IMPORTS
 import audio_utils
 
+# Example Usage for Utility Functions
 file = "input/sinnerman.wav"
-audio_utils.input_to_spectrogram(file)
